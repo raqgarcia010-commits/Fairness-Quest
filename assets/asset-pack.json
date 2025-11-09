@@ -1,0 +1,225 @@
+{
+  "animation_json": {
+    "files": [
+      {
+        "url": "assets/animations.json",
+        "type": "animation",
+        "key": "animations"
+      }
+    ]
+  },
+  "fonts": {
+    "files": [
+      {
+        "url": "assets/fronts/retro-pixel-arcade.otf.woff2",
+        "type": "font",
+        "key": "RetroPixel",
+        "fontType": "opentype"
+      },
+      {
+        "url": "assets/fronts/supercell-magic_0.ttf",
+        "type": "font",
+        "key": "SupercellMagic",
+        "fontType": "opentype"
+      }
+    ]
+  },
+  "gundam_animations": {
+    "files": [
+      {
+        "url": "https://specai-game-assets.s3.us-west-1.amazonaws.com/261/animations/f7ea9b72-5d62-4378-970f-c0eb424b2efa/749a51e2-f609-4f32-beb0-90e07832c35a.png",
+        "type": "image",
+        "key": "gundam_idle_frame1"
+      },
+      {
+        "url": "https://specai-game-assets.s3.us-west-1.amazonaws.com/261/animations/f7ea9b72-5d62-4378-970f-c0eb424b2efa/f82a19a8-80d0-4415-a4fd-16925b32adea.png",
+        "type": "image",
+        "key": "gundam_idle_frame2"
+      }
+    ]
+  },
+  "tilemaps": {
+    "files": [
+      {
+        "type": "tilemapTiledJSON",
+        "key": "mario_level_1",
+        "url": "https://cdn-game-mcp.gambo.ai/ef5225aa-04f9-4230-8590-52218a0c6427/tile_maps/mario_level_1.json"
+      }
+    ]
+  },
+  "tilesets": {
+    "files": [
+      {
+        "type": "image",
+        "key": "mario_ground_tileset",
+        "url": "https://cdn-game-mcp.gambo.ai/aeb1959d-77de-47d4-85de-cfb6946d1c91/tilesets/mario_ground_tileset.png"
+      }
+    ]
+  },
+  "backgrounds": {
+    "files": [
+      {
+        "type": "image",
+        "key": "space_background",
+        "url": "https://specai-game-assets.s3.us-west-1.amazonaws.com/261/images/f1d2ae3c-cc48-4c40-b05c-4a141394a145.png"
+      }
+    ]
+  },
+  "ui_images": {
+    "files": [
+      {
+        "type": "image",
+        "key": "game_title",
+        "url": "https://specai-game-assets.s3.us-west-1.amazonaws.com/261/images/game_title.png"
+      },
+      {
+        "type": "image",
+        "key": "fairness_quest_title",
+        "url": "https://cdn-game-mcp.gambo.ai/34585a1b-233b-4a96-b695-eed703fac7df/images/fairness_quest_title.png"
+      },
+      {
+        "type": "image",
+        "key": "education_background",
+        "url": "https://cdn-game-mcp.gambo.ai/b340ffd3-d9c4-477a-8c2c-93b3489a0c7f/images/education_background.png"
+      },
+      {
+        "type": "image",
+        "key": "student_ana_portrait",
+        "url": "https://cdn-game-mcp.gambo.ai/ed139dff-2894-4d65-99b6-bad2c63770c1/images/student_ana_portrait.png"
+      },
+      {
+        "type": "image",
+        "key": "student_malik_portrait",
+        "url": "https://cdn-game-mcp.gambo.ai/48456a7d-d4ca-4127-a3ca-420d35eb1c19/images/student_malik_portrait.png"
+      },
+      {
+        "type": "image",
+        "key": "student_linh_portrait",
+        "url": "https://cdn-game-mcp.gambo.ai/845115e6-7be0-4908-9682-9bd9aa09dd69/images/student_linh_portrait.png"
+      },
+      {
+        "type": "image",
+        "key": "teacher_female_latina_neutral",
+        "url": "https://cdn-game-mcp.gambo.ai/3558f4ac-10a4-41a8-bc7d-a339c577bca9/images/teacher_female_latina_neutral.png"
+      },
+      {
+        "type": "image",
+        "key": "teacher_female_latina_happy",
+        "url": "https://cdn-game-mcp.gambo.ai/55749174-64c7-48e2-8dbd-39975717fed3/images/teacher_female_latina_happy.png"
+      },
+      {
+        "type": "image",
+        "key": "teacher_female_latina_disappointed",
+        "url": "https://cdn-game-mcp.gambo.ai/39ef97f1-ae8d-4188-a9a5-3bc6408dd4b4/images/teacher_female_latina_disappointed.png"
+      },
+      {
+        "type": "image",
+        "key": "teacher_female_asian_neutral",
+        "url": "https://cdn-game-mcp.gambo.ai/f457f131-0db1-4c5d-b6ad-3f0362d6f589/images/teacher_female_asian_neutral.png"
+      },
+      {
+        "type": "image",
+        "key": "teacher_female_asian_happy",
+        "url": "https://cdn-game-mcp.gambo.ai/b32a3abb-fd85-48bd-aa20-399d17896e0b/images/teacher_female_asian_happy.png"
+      },
+      {
+        "type": "image",
+        "key": "teacher_female_asian_disappointed",
+        "url": "https://cdn-game-mcp.gambo.ai/97ccb99b-7f99-4ce9-9263-ecf304c55234/images/teacher_female_asian_disappointed.png"
+      },
+      {
+        "type": "image",
+        "key": "teacher_male_black_neutral",
+        "url": "https://cdn-game-mcp.gambo.ai/70de2caf-a4d1-4ea7-a4e6-034805656b5d/images/teacher_male_black_neutral.png"
+      },
+      {
+        "type": "image",
+        "key": "teacher_male_black_happy",
+        "url": "https://cdn-game-mcp.gambo.ai/ebf468ea-d92f-4a91-9b83-75b5c7652e33/images/teacher_male_black_happy.png"
+      },
+      {
+        "type": "image",
+        "key": "teacher_male_black_disappointed",
+        "url": "https://cdn-game-mcp.gambo.ai/6fd95377-35fd-41b4-86c8-996d9cf21611/images/teacher_male_black_disappointed.png"
+      },
+      {
+        "type": "image",
+        "key": "teacher_male_latino_neutral",
+        "url": "https://cdn-game-mcp.gambo.ai/8e3aae71-de83-43e5-ae95-2be701186306/images/teacher_male_latino_neutral.png"
+      },
+      {
+        "type": "image",
+        "key": "teacher_male_latino_happy",
+        "url": "https://cdn-game-mcp.gambo.ai/5bd5fd23-a659-427f-8512-2bef8f984f65/images/teacher_male_latino_happy.png"
+      },
+      {
+        "type": "image",
+        "key": "teacher_male_latino_disappointed",
+        "url": "https://cdn-game-mcp.gambo.ai/710ce4ec-cbe5-4f75-a57d-d1bf3d760a51/images/teacher_male_latino_disappointed.png"
+      }
+    ]
+  },
+  "sound_effects": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "correct_choice",
+        "url": "https://cdn-game-mcp.gambo.ai/ab4d71dc-8461-4bf1-b96b-6de5f91a5e72/sound_effects/correct_choice.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "wrong_choice",
+        "url": "https://cdn-game-mcp.gambo.ai/b57b0aaa-95b4-420f-a00f-3c627b88ae06/sound_effects/wrong_choice.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "neutral_choice",
+        "url": "https://cdn-game-mcp.gambo.ai/0c63ef9b-f603-47ab-8f81-94f743e599ec/sound_effects/neutral_choice.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "ui_click",
+        "url": "https://cdn-game-mcp.gambo.ai/3b6c78ac-73d6-4b00-86f3-2653a999ea89/sound_effects/ui_click.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "challenge_complete",
+        "url": "https://cdn-game-mcp.gambo.ai/91f13581-9f8f-452b-b634-adf06697050c/sound_effects/challenge_complete.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "text_blip",
+        "url": "https://cdn-game-mcp.gambo.ai/699be54d-4c34-475c-af00-d2254dfb0707/sound_effects/text_blip.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "choice_hover",
+        "url": "https://cdn-game-mcp.gambo.ai/f8470f45-4e64-413f-9a0b-60c900006a56/sound_effects/choice_hover.mp3"
+      }
+    ]
+  },
+  "background_musics": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "space_battle_8bit_theme",
+        "url": "https://specai-game-assets.s3.us-west-1.amazonaws.com/261/music/space_battle_8bit_theme.wav"
+      },
+      {
+        "type": "audio",
+        "key": "educational_theme",
+        "url": "https://cdn-game-mcp.gambo.ai/e9d6117f-ffa4-4fce-9d94-2a8e3cf779d0/music/educational_theme.wav"
+      },
+      {
+        "type": "audio",
+        "key": "upbeat_adventure_theme",
+        "url": "https://cdn-game-mcp.gambo.ai/2d55e656-9763-4bb6-807c-f3e4ba86972d/music/upbeat_adventure_theme.wav"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Gambo AI",
+    "version": 1,
+    "showAllFilesInBlocks": false
+  }
+}
